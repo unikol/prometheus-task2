@@ -1,3 +1,4 @@
+[![Prometheus Task](https://github.com/unikol/prometheus-task2/actions/workflows/main.yml/badge.svg)](https://github.com/unikol/prometheus-task2/actions/workflows/main.yml)
 # Task on the topic Prometheus
 
 Here we have a web application that uses a **Redis** database.
